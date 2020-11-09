@@ -1,25 +1,36 @@
 # FACTORS THAT AFFECT BOX OFFICE REVENUE OF A MOVIE 
 
-![](industry.jpg)
+![](pictures/movie_industry.jpg)
 
 ## Introduction 
 
-In this project, we will take a look at some datasets about the movie industry to do data analysis about what types of films are currently doing the best at the box office. The datasets include information about movies from long time ago. To keep this analysis more up-to-date, we will focus on analyzing the data of movies from the year of 2000 to the year of 2018. We will also translate those findings into actionable insights and create a presentation that a non-technical stakeholder can understand and decide what type of movies they should be creating.    
+In this project, we will take a look at multiple datasets about the movie industry to do data analysis about what types of films are currently doing the best at the box office. These datasets include information about movies from a long time ago. To keep this analysis more up-to-date, we will focus on analyzing the data of movies from the year of 2000 to the year of 2018. We will also translate those findings into actionable insights and create a presentation that a non-technical stakeholder can understand and decide what type of movies they should be creating.    
 
 ## Research Questions
 
 1. How does the release date of a movie affect its popularity and profit?
+![](pictures/release_date.jpg)
+
 2. Which movie genres do the top 300 recent movies have?
+![](pictures/genre_effect.jpg)
+
 3. How the cost of making a movie affect its popularity and
    is there a relationship between production budget and profit?
+![](pictures/production_cost.jpg)
+
 4. Can duration of a movie have any effect on popularity an profitability?
+![](pictures/duration_effect.jpg)
+
 
 ## Appendix for Files
 
-* Question 1: release_date_effect.ipynb
-* Question 2: genre_effect.ipynb
-* Question 3: production_cost_effect.ipynb
-* Question 4: duration_effect.ipynb
+* Question 1: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/release_date_effect.ipynb">release_date_effect.ipynb</a>
+
+* Question 2: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/genre_effect.ipynb">genre_effect.ipynb</a>
+
+* Question 3: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/production_cost_effect.ipynb">production_cost_effect.ipynb</a>
+
+* Question 4: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/duration_effect.ipynb">duration_effect.ipynb</a>
 
 ## Datasets 
 
@@ -30,14 +41,10 @@ All movie related data from the following source
 * Rotten Tomatoes
 * TheMovieDB.org
 
-## Non-technical Presentation
+## Presentation
 
-* presentation.pdf
+- Presentation Slides: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/presentation.pdf">Effects on Movies’ Popularity and Box Office Revenue Presentation</a>
 
-## Walkthrough Video
+- Oral Presenation: <a href="">Factors that Affect Box Office Revenue of a Movie Oral Presentation</a>
 
-<a href="https://drive.google.com/file/d/1nu4S3_S2iO8EMhCqzBlNSgOMlUM50O7W/view?usp=sharing">Oral Presentation</a>
-
-## Blog post
-
-<a href="https://linhmai19.github.io/effects_on_movies_popularity_and_box_office_revenue">Effects on Movies' Popularity and Box Office Revenue</a>
+- Blog Post: <a href="https://linhnp-mai.medium.com/effects-on-movies-popularity-and-box-office-revenue-1c80705e5056">Effects on Movies’ Popularity and Box Office Revenue</a>
