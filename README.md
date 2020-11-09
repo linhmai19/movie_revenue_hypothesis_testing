@@ -45,6 +45,6 @@ All movie related data from the following source
 
 - Presentation Slides: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/presentation.pdf">Effects on Movies’ Popularity and Box Office Revenue Presentation</a>
 
-- Oral Presenation: <a href="">Factors that Affect Box Office Revenue of a Movie Oral Presentation</a>
+- Oral Presenation: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/effects_on_movie_revenue_oral_presentation.mp4">Factors that Affect Box Office Revenue of a Movie Oral Presentation</a>
 
 - Blog Post: <a href="https://linhnp-mai.medium.com/effects-on-movies-popularity-and-box-office-revenue-1c80705e5056">Effects on Movies’ Popularity and Box Office Revenue</a>
