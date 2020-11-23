@@ -6,31 +6,37 @@
 
 In this project, we will take a look at multiple datasets about the movie industry to do data analysis about what types of films are currently doing the best at the box office. These datasets include information about movies from a long time ago. To keep this analysis more up-to-date, we will focus on analyzing the data of movies from the year of 2000 to the year of 2018. We will also translate those findings into actionable insights and create a presentation that a non-technical stakeholder can understand and decide what type of movies they should be creating.    
 
+## Data Cleaning
+
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/data_cleaning.ipynb">data_cleaning.ipynb</a>
+
 ## Research Questions
 
 1. How does the release date of a movie affect its popularity and profit?
+
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/Q1_release_date_effect.ipynb">Q1_release_date_effect.ipynb</a>
+
 ![](pictures/release_date.jpg)
 
 2. Which movie genres do the top 300 recent movies have?
+
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/genre_effect.ipynb">genre_effect.ipynb</a>
+
 ![](pictures/genre_effect.jpg)
 
 3. How the cost of making a movie affect its popularity and
    is there a relationship between production budget and profit?
+
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/production_cost_effect.ipynb">production_cost_effect.ipynb</a>
+
 ![](pictures/production_cost.jpg)
 
 4. Can duration of a movie have any effect on popularity an profitability?
+
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/duration_effect.ipynb">duration_effect.ipynb</a>
+
 ![](pictures/duration_effect.jpg)
 
-
-## Appendix for Files
-
-* Question 1: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/release_date_effect.ipynb">release_date_effect.ipynb</a>
-
-* Question 2: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/genre_effect.ipynb">genre_effect.ipynb</a>
-
-* Question 3: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/production_cost_effect.ipynb">production_cost_effect.ipynb</a>
-
-* Question 4: <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/duration_effect.ipynb">duration_effect.ipynb</a>
 
 ## Datasets 
 
