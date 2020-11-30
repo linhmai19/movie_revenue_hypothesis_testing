@@ -18,9 +18,11 @@ In this project, we will take a look at multiple datasets about the movie indust
 
 ![](pictures/release_date.jpg)
 
+![](pictures/release_moth.jpg)
+
 2. Which movie genres do the top 300 recent movies have?
 
-<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/genre_effect.ipynb">genre_effect.ipynb</a>
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/Q2_genre_effect.ipynb">Q2_genre_effect.ipynb</a>
 
 ![](pictures/genre_effect.jpg)
 
