@@ -16,8 +16,10 @@ In this project, we will take a look at multiple datasets about the movie indust
 
 <a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/Q1_release_date_effect.ipynb">Q1_release_date_effect.ipynb</a>
 
+* Day of the Week 
 ![](pictures/release_date.jpg)
 
+* Month of the Year
 ![](pictures/release_moth.jpg)
 
 2. Which movie genres do the top 300 recent movies have?
