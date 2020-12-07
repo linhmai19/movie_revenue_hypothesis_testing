@@ -28,10 +28,9 @@ In this project, we will take a look at multiple datasets about the movie indust
 
 ![](pictures/genre_effect.jpg)
 
-3. How the cost of making a movie affect its popularity and
-   is there a relationship between production budget and profit?
+3. How the cost of making a movie affect its popularity and is there a relationship between production budget and profit?
 
-<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/production_cost_effect.ipynb">production_cost_effect.ipynb</a>
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/Q3_production_cost_effect.ipynb">Q3_production_cost_effect.ipynb</a>
 
 ![](pictures/production_cost.jpg)
 
