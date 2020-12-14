@@ -34,11 +34,13 @@ In this project, we will take a look at multiple datasets about the movie indust
 
 ![](pictures/production_budget.jpg)
 
-4. Can duration of a movie have any effect on popularity an profitability?
+4. Can duration of a movie affect its popularity and profitability?
 
-<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/duration_effect.ipynb">duration_effect.ipynb</a>
+<a href="https://github.com/linhmai19/movie_revenue_hypothesis_testing/blob/master/Q4_movie_duration_effect.ipynb">Q4_movie_duration_effect.ipynb</a>
 
-![](pictures/duration_effect.jpg)
+![](pictures/duration_popularity.jpg)
+
+![](pictures/duration_profit.jpg)
 
 
 ## Datasets 
