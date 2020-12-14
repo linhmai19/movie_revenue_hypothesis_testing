@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-In this project, we will take a look at multiple datasets about the movie industry to do data analysis about what types of films are currently doing the best at the box office. These datasets include information about movies from a long time ago. To keep this analysis more up-to-date, we will focus on analyzing the data of movies from the year of 2000 to the year of 2018. We will also translate those findings into actionable insights and create a presentation that a non-technical stakeholder can understand and decide what type of movies they should be creating.    
+In this project, we will take a look at multiple datasets about the movie industry to do data analysis about what types of films are currently doing the best at the box office. These datasets include information about movies from a long time ago. To keep this analysis more up-to-date, we will focus on analyzing the data of movies from the year of 2000 to the year of 2018. We will also translate those findings into actionable insights to stakeholder, so they can properly identify and understand the factors that affect a movie's popularity and profitablity.    
 
 ## Data Cleaning
 
